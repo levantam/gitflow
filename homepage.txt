@@ -4,3 +4,5 @@ Review code
 Fix bug - release 1.1
 release 1.0.3
 hotfix 01
+
+RELEASE 1.0.4
