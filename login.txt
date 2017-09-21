@@ -1,2 +1,6 @@
 function abc(){}
 edit 02s
+
+new feature
+
+NEW FEATURE
