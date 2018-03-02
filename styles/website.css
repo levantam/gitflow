@@ -1,3 +1,7 @@
 body{
     background: green;
 }
+a.custom-link{
+font-weight: bold;
+color: blue;
+}
