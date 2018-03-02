@@ -1,7 +1,7 @@
 body{
-    background: green;
+    background: green !important;
 }
 a.custom-link{
-font-weight: bold;
-color: blue;
+font-weight: bold !important;
+color: blue !important;
 }
